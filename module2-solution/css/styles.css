@@ -13,11 +13,6 @@ p {
   margin: 0px;
 }
 
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
-}
-
 section {
   border:	1px solid black;
 	background-color: Grey;
