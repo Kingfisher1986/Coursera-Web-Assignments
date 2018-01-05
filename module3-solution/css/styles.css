@@ -1,0 +1,64 @@
+body h1 {
+  text-align: center;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+#header-nav .container {
+  margin-left: 0;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+#main-content {
+  width: 100%;
+}
+
+.chicken-tile {
+  background-color: Red;
+}
+
+.chicken-tile h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.beef-tile {
+  background-color: Yellow;
+}
+
+.beef-tile h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.sushi-tile {
+  background-color: Green;
+}
+
+.sushi-tile h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.menu-item-details {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-brand h1 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
