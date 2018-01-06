@@ -7,6 +7,11 @@
   margin-left: 0;
 }
 
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 #nav-list a {
   color: #951C49;
   text-align: center;
